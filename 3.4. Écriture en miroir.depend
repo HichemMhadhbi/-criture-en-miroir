@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723110024 source:c:\users\hichem\desktop\exercices langage c\franceioi niv2\3.4. Écriture en miroir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
